@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://bood.hitad.co.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
